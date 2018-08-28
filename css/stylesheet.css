@@ -1,0 +1,15 @@
+body {
+	background: black;
+	color:white;
+}
+
+.done {
+	opacity: 50%;
+	color: rgba(0.5, 0.5, 0.5, 0.5);
+}
+
+.container {
+	width : 360px ;
+	margin: 0 auto;
+	background-color:  blue;
+}
